@@ -1,5 +1,5 @@
 const { Client, GatewayIntentBits, Partials, SlashCommandBuilder, REST, Routes } = require('discord.js');
-const TOKEN = "?????"; // 替換為您的機器人 Token
+const TOKEN = "MTMwMjYxNDcwNjk2MzM0OTUxNA.GeqIBk.Xuol8O_Y8VSVF724B-vQIcuePQxNdCAvC-fh4w"; // 替換為您的機器人 Token
 const client = new Client({
     intents: [
         GatewayIntentBits.Guilds,
